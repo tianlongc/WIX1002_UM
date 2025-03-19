@@ -1,0 +1,4 @@
+.elif txet elpmas a si sihT
+.txet 1 enil si sihT
+.txet 2 enil si sihT
+.txet 3 enil si sihT
