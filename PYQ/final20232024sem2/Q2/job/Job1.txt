@@ -1,0 +1,4 @@
+JobName: Job2
+Partition: gpu-a100
+Memory: 8GB
+QoS: long

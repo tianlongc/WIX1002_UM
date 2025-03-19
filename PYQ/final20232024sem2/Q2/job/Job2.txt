@@ -1,0 +1,4 @@
+JobName: Job4
+Partition: cpu-epyc-genoa
+Memory: 8GB
+QoS: long

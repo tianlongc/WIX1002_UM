@@ -1,0 +1,4 @@
+(For reference purpose only! Not 100% correct)
+2b) i. The execution of the given program below uses nested if-else statements to control the flow of execution based on the values of x, y and z. The program starts by checking if x > y is true or not. If yes, it will check for y > z and it is false, so it move to the else block. Inside the else block, it checks if x < z but it is false, so it moves to the final else block. After that, the final else block outputs "Condition 3".
+
+2b) ii. The output of the following program when it runs is "Condition 3". This is because the conditions x > y is true and y > z is false lead to the final else block where x < z is evaluated to false results in printing "Condition 3".

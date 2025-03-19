@@ -1,0 +1,4 @@
+JobName: Job3
+Partition: gpu-v100s
+Memory: 16GB
+QoS: debug
