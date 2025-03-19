@@ -1,0 +1,10 @@
+John Doe,85
+Frankenstein Jr,97
+Tom Johnson,-1
+Emily Davis,78
+Michael Brown,64
+Jessica Wilson,-1
+Chewbacca Chewy,10
+Sarah Lewis,73
+Robert Walker,88
+David Lee,-1
