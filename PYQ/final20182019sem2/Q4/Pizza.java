@@ -8,6 +8,11 @@ package Q4;
  *
  * @author tianlongc
  */
+/* 
+    in UML Diagram,
+    - sign indicates private modifiers
+    + sign indicates public modifiers
+*/
 public class Pizza {
     private String size;
     private int numOfCheeseTopping;
