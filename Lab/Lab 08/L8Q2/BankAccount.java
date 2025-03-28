@@ -9,10 +9,10 @@ package L8Q2;
  * @author tianlongc
  */
 public class BankAccount {
-    private String name = "";
-    private String IC = "";
-    private String passportNumber = "";
-    private double balance = 0;
+    private String name;
+    private String IC;
+    private String passportNumber;
+    private double balance;
     
     public BankAccount(String n, String ic, String p, double b){
         this.name = n;
