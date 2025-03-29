@@ -32,7 +32,7 @@ public class Game {
     public void rollDice(){
         Random rd = new Random();
         
-        int dice = rd.nextInt(1,7);
+        int dice = rd.nextInt(6)+1;
         score += dice;
         
         System.out.println(name + " rolled: " + dice);
