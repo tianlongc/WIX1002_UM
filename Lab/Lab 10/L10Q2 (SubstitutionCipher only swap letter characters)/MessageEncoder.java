@@ -4,8 +4,6 @@
  */
 package L10Q2ex;
 
-import L10Q2Q3.*;
-
 /**
  *
  * @author tianlongc
