@@ -5,9 +5,9 @@ This repository contains my solutions for the course WIX1002 Fundamentals of Pro
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Last Commit](https://img.shields.io/github/last-commit/tianlongc/WIX1002_UM)
 # Navigation
-[![Tutorial](https://img.shields.io/badge/📚-Tutorials-9cf)](https://github.com/tianlongc/WIX1002_UM/main/README.md#tutorial)
-[![Lab](https://img.shields.io/badge/🔬-Labs-orange)](https://github.com/tianlongc/WIX1002_UM/main/README.md#lab)
-[![PYQ](https://img.shields.io/badge/📝-Past_Year_Q-yellow)](https://github.com/tianlongc/WIX1002_UM/main/README.md#past-year-question-2016---2025-sem-1)
+[![Tutorial](https://img.shields.io/badge/📚-Tutorials-9cf)](https://github.com/tianlongc/WIX1002_UM/?tab=readme-ov-file#tutorial)
+[![Lab](https://img.shields.io/badge/🔬-Labs-orange)](https://github.com/tianlongc/WIX1002_UM/?tab=readme-ov-file#lab)
+[![PYQ](https://img.shields.io/badge/📝-Past_Year_Q-yellow)](https://github.com/tianlongc/WIX1002_UM/?tab=readme-ov-file#past-year-question-2016---2025-sem-1)
 
 ## Tutorial
 - [Tutorial 01](https://github.com/tianlongc/WIX1002_UM/blob/main/Tutorial/24068668_WIX1002_Tutorial01.pdf)
