@@ -58,5 +58,5 @@ Feel free to fork and submit a pull request to improve my content. Thanks!
 # References 
 Deep Apologies! Sorry that I can't remember all of the names of senior that help me throughout this course but here are the repositories I usually refer to
 - https://github.com/LimJY03/WIX1002_UM
-- https://github.com/szeyu
+- https://github.com/szeyu/WIX1002-Collections
 - https://github.com/The-Missing-UMCS/UM-WIX1002
