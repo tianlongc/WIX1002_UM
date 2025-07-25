@@ -31,7 +31,7 @@ This repository contains my solutions for the course WIX1002 Fundamentals of Pro
 > I generally avoid using predefined **Collection APIs** like `ArrayList` or `HashMap` throughout this course — unless it's specifically required (e.g. in **VIVA** sessions). 
 > Yes, I totally agree these are valid and often more efficient approaches. However, **exam questions sometimes explicitly prohibit** the use of such APIs.  
 > Therefore, it is crucial to strengthen your understanding of **fundamental Java concepts** in this course. Of course, you are encouraged to explore and learn beyond the syllabus — just make sure you are also prepared to solve problems under typical exam constraints.  
-> _(Sorry for nagging — just trying to save you from losing marks 😅)_
+> _(Sorry for nagging — just trying to save you from losing marks_ 😅 _)_
 
 ---
 
