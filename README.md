@@ -8,23 +8,56 @@ This repository contains my solutions for the course WIX1002 Fundamentals of Pro
 # 🗺️ Navigation
 [![Tutorial](https://img.shields.io/badge/📖-Tutorial-blue)](?tab=readme-ov-file#%EF%B8%8F-course-outline)
 [![Lab](https://img.shields.io/badge/💻-Lab-orange)](?tab=readme-ov-file#%EF%B8%8F-course-outline)
+[![VIVA](https://img.shields.io/badge/🎙️-Viva-magenta)]()
 [![PYQ](https://img.shields.io/badge/📝-Past_Year_Question-yellow)](?tab=readme-ov-file#-past-year-question)
 
 ## 🗂️ Course Outline
 
-| Topic                            | Tutorial                                                                                                  | Lab                                                                          |
-|----------------------------------|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| Problem Solving in Programming   | [Tutorial 01](https://github.com/tianlongc/WIX1002_UM/blob/main/Tutorial/24068668_WIX1002_Tutorial01.pdf) | [Lab 01](https://github.com/tianlongc/WIX1002_UM/tree/main/Lab/Lab%2001)     |
-| Java Fundamental                 | [Tutorial 02](https://github.com/tianlongc/WIX1002_UM/blob/main/Tutorial/24068668_WIX1002_Tutorial02.pdf) | [Lab 02](https://github.com/tianlongc/WIX1002_UM/tree/main/Lab/Lab%2002)     |
-| Flow of Control (Selection)      | [Tutorial 03](https://github.com/tianlongc/WIX1002_UM/blob/main/Tutorial/24068668_WIX1002_Tutorial03.pdf) | [Lab 03](https://github.com/tianlongc/WIX1002_UM/tree/main/Lab/Lab%2003)     |
-| Flow of Control (Repetition)     | [Tutorial 04](https://github.com/tianlongc/WIX1002_UM/blob/main/Tutorial/24068668_WIX1002_Tutorial04.pdf) | [Lab 04](https://github.com/tianlongc/WIX1002_UM/tree/main/Lab/Lab%2004)     |
-| Arrays                           | [Tutorial 05](https://github.com/tianlongc/WIX1002_UM/blob/main/Tutorial/24068668_WIX1002_Tutorial05.pdf) | [Lab 05](https://github.com/tianlongc/WIX1002_UM/tree/main/Lab/Lab%2005)     |
-| Java Methods                     | [Tutorial 06](https://github.com/tianlongc/WIX1002_UM/blob/main/Tutorial/24068668_WIX1002_Tutorial06.pdf) | [Lab 06](https://github.com/tianlongc/WIX1002_UM/tree/main/Lab/Lab%2006)     |
-| File Input and Output            | [Tutorial 07](https://github.com/tianlongc/WIX1002_UM/blob/main/Tutorial/24068668_WIX1002_Tutorial07.pdf) | [Lab 07](https://github.com/tianlongc/WIX1002_UM/tree/main/Lab/Lab%2007)     |
-| Class                            | [Tutorial 08](https://github.com/tianlongc/WIX1002_UM/blob/main/Tutorial/24068668_WIX1002_Tutorial08.pdf) | [Lab 08](https://github.com/tianlongc/WIX1002_UM/tree/main/Lab/Lab%2008)     |
-| Inheritance                      | [Tutorial 09](https://github.com/tianlongc/WIX1002_UM/blob/main/Tutorial/24068668_WIX1002_Tutorial09.pdf) | [Lab 09](https://github.com/tianlongc/WIX1002_UM/tree/main/Lab/Lab%2009)     |
-| Polymorphism                     | [Tutorial 10](https://github.com/tianlongc/WIX1002_UM/blob/main/Tutorial/24068668_WIX1002_Tutorial10.pdf) | [Lab 10](https://github.com/tianlongc/WIX1002_UM/tree/main/Lab/Lab%2010)     |
-| Exception Handling               | <div align="center">-</div>                                                                               | <div align="center">-</div>                                                                            |
+| Topic                            | Tutorial                                                | Lab                        |
+|----------------------------------|---------------------------------------------------------|----------------------------|
+| Problem Solving in Programming   | [Tutorial 01](Tutorial/24068668_WIX1002_Tutorial01.pdf) | [Lab 01](Lab/Lab%2001)     |
+| Java Fundamental                 | [Tutorial 02](Tutorial/24068668_WIX1002_Tutorial02.pdf) | [Lab 02](Lab/Lab%2002)     |
+| Flow of Control (Selection)      | [Tutorial 03](Tutorial/24068668_WIX1002_Tutorial03.pdf) | [Lab 03](Lab/Lab%2003)     |
+| Flow of Control (Repetition)     | [Tutorial 04](Tutorial/24068668_WIX1002_Tutorial04.pdf) | [Lab 04](Lab/Lab%2004)     |
+| Arrays                           | [Tutorial 05](Tutorial/24068668_WIX1002_Tutorial05.pdf) | [Lab 05](Lab/Lab%2005)     |
+| Java Methods                     | [Tutorial 06](Tutorial/24068668_WIX1002_Tutorial06.pdf) | [Lab 06](Lab/Lab%2006)     |
+| File Input and Output            | [Tutorial 07](Tutorial/24068668_WIX1002_Tutorial07.pdf) | [Lab 07](Lab/Lab%2007)     |
+| Class                            | [Tutorial 08](Tutorial/24068668_WIX1002_Tutorial08.pdf) | [Lab 08](Lab/Lab%2008)     |
+| Inheritance                      | [Tutorial 09](Tutorial/24068668_WIX1002_Tutorial09.pdf) | [Lab 09](Lab/Lab%2009)     |
+| Polymorphism                     | [Tutorial 10](Tutorial/24068668_WIX1002_Tutorial10.pdf) | [Lab 10](Lab/Lab%2010)     |
+| Exception Handling               | <div align="center">-</div>                             | <div align="center">-</div>|
+
+## 🗣️ Viva
+A practical lab assessment where students are required to solve **Programming Questions** and deliver an **Oral Explanation** of their solutions to a **demonstrator or lecturer**.
+This session is designed to assess:
+- Understanding of **Java fundamentals**
+- Ability to **communicate your logic clearly**
+- Capability to **respond to questions** or make **live code adjustments**
+
+---
+
+### 📅 Viva (2025 sem 1)
+
+#### 📁 List of Question Sets
+> Practical assessments grouped by lab day
+
+| Topic        | Wednesday Group                                 | Thursday Group                                   |
+|--------------|-------------------------------------------------|--------------------------------------------------|
+| Flow Control | [📂 Viva 1](Viva/Wednesday%20Group/Viva%201)    | [📂 Viva 1](Viva/Thursday%20Group/Viva%201)     |
+| Methods      | [📂 Viva 2](Viva/Wednesday%20Group/Viva%202)    | [📂 Viva 2](Viva/Thursday%20Group/Viva%202)     |
+| Class        | [📂 Viva 3](Viva/Wednesday%20Group/Viva%203)    | [📂 Viva 3](Viva/Thursday%20Group/Viva%203)     |
+
+📌 [**Errata: Clarifications on Viva 2**](Viva/Errata%20-%20Clarifications%20on%20Viva%202%20(WIX1002%2C%20AY20242025%2C%20S1)%20WYY.pdf)
+
+---
+
+#### ⭐ Recommended Questions to Try
+If you are into _Competitive Programming (CP)_ , these questions are highly recommended:
+
+| Group            | Question                                              | Difficulty |
+|------------------|-------------------------------------------------------|------------|
+| Wednesday Viva 2 | [Q3 — Romans](Viva/Wednesday%20Group/Viva%202/V2Q3) |![Hard](https://img.shields.io/badge/🔥-Hard-red) |
+| Thursday Viva 2  | [Q6 — G101](Viva/Thursday%20Group/Viva%202/V2Q6)    |![Hard](https://img.shields.io/badge/🔥-Hard-red) |
 
 ## 📝 Past Year Question
 > ⚠️ **Note:**  
