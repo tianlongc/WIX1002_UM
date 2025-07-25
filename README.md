@@ -28,7 +28,7 @@ This repository contains my solutions for the course WIX1002 Fundamentals of Pro
 | Exception Handling               | <div align="center">-</div>                             | <div align="center">-</div>|
 
 ## 🗣️ Viva
-A practical lab assessment where students are required to solve **Programming Questions** and deliver an **Oral Explanation** of their solutions to a **demonstrator or lecturer**.
+A practical lab assessment where students are required to solve **Programming Questions** and deliver an **Oral Explanation** of their solutions to a **demonstrator** or **lecturer**.
 This session is designed to assess:
 - Understanding of **Java fundamentals**
 - Ability to **communicate your logic clearly**
@@ -41,23 +41,23 @@ This session is designed to assess:
 #### 📁 List of Question Sets
 > Practical assessments grouped by lab day
 
-| Topic        | Wednesday Group                                 | Thursday Group                                   |
-|--------------|-------------------------------------------------|--------------------------------------------------|
-| Flow Control | [📂 Viva 1](Viva/Wednesday%20Group/Viva%201)    | [📂 Viva 1](Viva/Thursday%20Group/Viva%201)     |
-| Methods      | [📂 Viva 2](Viva/Wednesday%20Group/Viva%202)    | [📂 Viva 2](Viva/Thursday%20Group/Viva%202)     |
-| Class        | [📂 Viva 3](Viva/Wednesday%20Group/Viva%203)    | [📂 Viva 3](Viva/Thursday%20Group/Viva%203)     |
+| Topic        | Wednesday Group                                                         | Thursday Group                                                         |
+|--------------|-------------------------------------------------------------------------|------------------------------------------------------------------------|
+| Flow Control | <div align="center">[📂 Viva 1](Viva/Wednesday%20Group/Viva%201)</div> | <div align="center">[📂 Viva 1](Viva/Thursday%20Group/Viva%201)</div>  |
+| Methods      | <div align="center">[📂 Viva 2](Viva/Wednesday%20Group/Viva%202)</div> | <div align="center">[📂 Viva 2](Viva/Thursday%20Group/Viva%202)</div>  |
+| Class        | <div align="center">[📂 Viva 3](Viva/Wednesday%20Group/Viva%203)</div> | <div align="center">[📂 Viva 3](Viva/Thursday%20Group/Viva%203)</div>  |
 
 📌 [**Errata: Clarifications on Viva 2**](Viva/Errata%20-%20Clarifications%20on%20Viva%202%20(WIX1002%2C%20AY20242025%2C%20S1)%20WYY.pdf)
 
 ---
 
 #### ⭐ Recommended Questions to Try
-If you are into _Competitive Programming (CP)_ , these questions are highly recommended:
+If you are into _Competitive Programming (CP)_ 🏆, these questions are highly recommended:
 
-| Group            | Question                                              | Difficulty                                        |
-|------------------|-------------------------------------------------------|---------------------------------------------------|
-| Wednesday Viva 2 | [Q3 — Romans](Viva/Wednesday%20Group/Viva%202/V2Q3)   |![Hard](https://img.shields.io/badge/🔥-Hard-red) |
-| Thursday Viva 2  | [Q6 — G101](Viva/Thursday%20Group/Viva%202/V2Q6)      |![Hard](https://img.shields.io/badge/🔥-Hard-red) |
+| Group     | Viva   | Question                                              | Difficulty                                                                  |
+|-----------|--------|-------------------------------------------------------|-----------------------------------------------------------------------------|
+| Wednesday | Viva 2 | [Q3 — Romans](Viva/Wednesday%20Group/Viva%202/V2Q3)   | <div align="center">![Hard](https://img.shields.io/badge/🔥-Hard-red)</div> |
+| Thursday  | Viva 2 | [Q6 — G101](Viva/Thursday%20Group/Viva%202/V2Q6)      | <div align="center">![Hard](https://img.shields.io/badge/🔥-Hard-red)</div> |
 
 ## 📝 Past Year Question
 > ⚠️ **Note:**  
@@ -73,7 +73,7 @@ These sets focus on **Problem-Solving Questions** commonly tested in the _midter
 They are ideal for practising core Java Fundamentals topics, especially:
 - Flow of Control (**Selection**)
 - Flow of Control (**Repetition**)
-- Input and Output **Formatting** (follow the sample input/output strictly, as required in exams)
+- Input and Output (**Formatting**) _follow the sample input/output strictly, as required in exams_
 
 ---
 #### 📁 List of Question Sets
