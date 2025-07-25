@@ -6,9 +6,9 @@ This repository contains my solutions for the course WIX1002 Fundamentals of Pro
 ![Last Commit](https://img.shields.io/github/last-commit/tianlongc/WIX1002_UM)
 
 # 🗺️ Navigation
-[![Tutorial](https://img.shields.io/badge/📖-Tutorial-blue)](#️course-outline)
-[![Lab](https://img.shields.io/badge/💻-Lab-orange)](#️course-outline)
-[![PYQ](https://img.shields.io/badge/📝-Past_Year_Question-yellow)](#️past-year-question)
+[![Tutorial](https://img.shields.io/badge/📖-Tutorial-blue)](?tab=readme-ov-file#%EF%B8%8F-course-outline)
+[![Lab](https://img.shields.io/badge/💻-Lab-orange)](?tab=readme-ov-file#%EF%B8%8F-course-outline)
+[![PYQ](https://img.shields.io/badge/📝-Past_Year_Question-yellow)](?tab=readme-ov-file#-past-year-question)
 
 ## 🗂️ Course Outline
 
@@ -30,7 +30,7 @@ This repository contains my solutions for the course WIX1002 Fundamentals of Pro
 > ⚠️ **Note:**  
 > I generally avoid using predefined **Collection APIs** like `ArrayList` or `HashMap` throughout this course — unless it's specifically required (e.g. in **VIVA** sessions). 
 > Yes, I totally agree these are valid and often more efficient approaches. However, **exam questions sometimes explicitly prohibit** the use of such APIs.  
-> Therefore, it is crucial to strengthen your understanding of **fundamental Java concepts** in this course. Of course, you are encouraged to explore and learn beyond the syllabus — just make sure you're also prepared to solve problems under typical exam constraints.  
+> Therefore, it is crucial to strengthen your understanding of **fundamental Java concepts** in this course. Of course, you are encouraged to explore and learn beyond the syllabus — just make sure you are also prepared to solve problems under typical exam constraints.  
 > _(Sorry for nagging — just trying to save you from losing marks 😅)_
 
 ---
@@ -53,8 +53,12 @@ They are ideal for practising core Java Fundamentals topics, especially:
 
 ---
 
-### Past Year Question (2016 - 2025 sem 1)
+### 📄 Past Year Question (2016 - 2025 sem 1)
+> 💡 **Suggestion:**  
+> Try working on the **most recent papers first** — the older ones might use outdated formats. 
+> It is a good way to get used to the current question style before diving into older sets.
 
+---
 #### 📁 List of Question Sets
 
 | Semester     | Link                                                                                          |
