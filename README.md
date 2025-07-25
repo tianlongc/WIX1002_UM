@@ -8,7 +8,7 @@ This repository contains my solutions for the course WIX1002 Fundamentals of Pro
 # 🗺️ Navigation
 [![Tutorial](https://img.shields.io/badge/📖-Tutorial-blue)](?tab=readme-ov-file#%EF%B8%8F-course-outline)
 [![Lab](https://img.shields.io/badge/💻-Lab-orange)](?tab=readme-ov-file#%EF%B8%8F-course-outline)
-[![VIVA](https://img.shields.io/badge/🎙️-Viva-magenta)]()
+[![VIVA](https://img.shields.io/badge/🎙️-Viva-magenta)](?tab=readme-ov-file#%EF%B8%8F-viva)
 [![PYQ](https://img.shields.io/badge/📝-Past_Year_Question-yellow)](?tab=readme-ov-file#-past-year-question)
 
 ## 🗂️ Course Outline
@@ -54,10 +54,10 @@ This session is designed to assess:
 #### ⭐ Recommended Questions to Try
 If you are into _Competitive Programming (CP)_ , these questions are highly recommended:
 
-| Group            | Question                                              | Difficulty |
-|------------------|-------------------------------------------------------|------------|
-| Wednesday Viva 2 | [Q3 — Romans](Viva/Wednesday%20Group/Viva%202/V2Q3) |![Hard](https://img.shields.io/badge/🔥-Hard-red) |
-| Thursday Viva 2  | [Q6 — G101](Viva/Thursday%20Group/Viva%202/V2Q6)    |![Hard](https://img.shields.io/badge/🔥-Hard-red) |
+| Group            | Question                                              | Difficulty                                        |
+|------------------|-------------------------------------------------------|---------------------------------------------------|
+| Wednesday Viva 2 | [Q3 — Romans](Viva/Wednesday%20Group/Viva%202/V2Q3)   |![Hard](https://img.shields.io/badge/🔥-Hard-red) |
+| Thursday Viva 2  | [Q6 — G101](Viva/Thursday%20Group/Viva%202/V2Q6)      |![Hard](https://img.shields.io/badge/🔥-Hard-red) |
 
 ## 📝 Past Year Question
 > ⚠️ **Note:**  
@@ -78,11 +78,11 @@ They are ideal for practising core Java Fundamentals topics, especially:
 ---
 #### 📁 List of Question Sets
 
-| Semester     | Link                                                                                                                       |
-|--------------|----------------------------------------------------------------------------------------------------------------------------|
-| 2016 Sem 1   | [📂 Problem-Solving-1](https://github.com/tianlongc/WIX1002_UM/tree/main/PYQ/Problem%20Solving%20(Midterm%20Revision)/PS1) |
-| 2019 Sem 1   | [📂 Problem-Solving-2](https://github.com/tianlongc/WIX1002_UM/tree/main/PYQ/Problem%20Solving%20(Midterm%20Revision)/PS2) |
-| 2017 Sem 2   | [📂 Problem-Solving-3](https://github.com/tianlongc/WIX1002_UM/tree/main/PYQ/Problem%20Solving%20(Midterm%20Revision)/PS3) |
+| Semester     | Link                                                                      |
+|--------------|---------------------------------------------------------------------------|
+| 2016 Sem 1   | [📂 Problem-Solving-1](PYQ/Problem%20Solving%20(Midterm%20Revision)/PS1) |
+| 2019 Sem 1   | [📂 Problem-Solving-2](PYQ/Problem%20Solving%20(Midterm%20Revision)/PS2) |
+| 2017 Sem 2   | [📂 Problem-Solving-3](PYQ/Problem%20Solving%20(Midterm%20Revision)/PS3) |
 
 ---
 
@@ -94,23 +94,23 @@ They are ideal for practising core Java Fundamentals topics, especially:
 ---
 #### 📁 List of Question Sets
 
-| Semester     | Link                                                                                          |
-|--------------|-----------------------------------------------------------------------------------------------|
-| 2016 Sem 1   | [📂 WIX1002_1_2016](https://github.com/tianlongc/WIX1002_UM/tree/main/PYQ/final20152016sem1) |
-| 2016 Sem 2   | [📂 WIX1002_2_2016](https://github.com/tianlongc/WIX1002_UM/tree/main/PYQ/final20152016sem2) |
-| 2017 Sem 1   | [📂 WIX1002_1_2017](https://github.com/tianlongc/WIX1002_UM/tree/main/PYQ/final20162017sem1) |
-| 2017 Sem 2   | [📂 WIX1002_2_2017](https://github.com/tianlongc/WIX1002_UM/tree/main/PYQ/final20162017sem2) |
-| 2018 Sem 1   | [📂 WIX1002_1_2018](https://github.com/tianlongc/WIX1002_UM/tree/main/PYQ/final20172018sem1) |
-| 2018 Sem 2   | [📂 WIX1002_2_2018](https://github.com/tianlongc/WIX1002_UM/tree/main/PYQ/final20172018sem2) |
-| 2019 Sem 1   | [📂 WIX1002_1_2019](https://github.com/tianlongc/WIX1002_UM/tree/main/PYQ/final20182019sem1) |
-| 2019 Sem 2   | [📂 WIX1002_2_2019](https://github.com/tianlongc/WIX1002_UM/tree/main/PYQ/final20182019sem2) |
-| 2020 Sem 1   | [📂 WIX1002_1_2020](https://github.com/tianlongc/WIX1002_UM/tree/main/PYQ/final20192020sem1) |
-| 2021 Sem 1   | [📂 WIX1002_1_2021](https://github.com/tianlongc/WIX1002_UM/tree/main/PYQ/final20202021sem1) |
-| 2022 Sem 1   | [📂 WIX1002_1_2022](https://github.com/tianlongc/WIX1002_UM/tree/main/PYQ/final20212022sem1) |
-| 2023 Sem 1   | [📂 WIX1002_1_2023](https://github.com/tianlongc/WIX1002_UM/tree/main/PYQ/final20222023sem1) |
-| 2024 Sem 1   | [📂 WIX1002_1_2024](https://github.com/tianlongc/WIX1002_UM/tree/main/PYQ/final20232024sem1) |
-| 2024 Sem 2   | [📂 WIX1002_2_2024](https://github.com/tianlongc/WIX1002_UM/tree/main/PYQ/final20232024sem2) |
-| 2025 Sem 1   | [📂 WIX1002_1_2025](https://github.com/tianlongc/WIX1002_UM/tree/main/PYQ/final20242025sem1) |
+| Semester     | Link                                        |
+|--------------|---------------------------------------------|
+| 2016 Sem 1   | [📂 WIX1002_1_2016](PYQ/final20152016sem1) |
+| 2016 Sem 2   | [📂 WIX1002_2_2016](PYQ/final20152016sem2) |
+| 2017 Sem 1   | [📂 WIX1002_1_2017](PYQ/final20162017sem1) |
+| 2017 Sem 2   | [📂 WIX1002_2_2017](PYQ/final20162017sem2) |
+| 2018 Sem 1   | [📂 WIX1002_1_2018](PYQ/final20172018sem1) |
+| 2018 Sem 2   | [📂 WIX1002_2_2018](PYQ/final20172018sem2) |
+| 2019 Sem 1   | [📂 WIX1002_1_2019](PYQ/final20182019sem1) |
+| 2019 Sem 2   | [📂 WIX1002_2_2019](PYQ/final20182019sem2) |
+| 2020 Sem 1   | [📂 WIX1002_1_2020](PYQ/final20192020sem1) |
+| 2021 Sem 1   | [📂 WIX1002_1_2021](PYQ/final20202021sem1) |
+| 2022 Sem 1   | [📂 WIX1002_1_2022](PYQ/final20212022sem1) |
+| 2023 Sem 1   | [📂 WIX1002_1_2023](PYQ/final20222023sem1) |
+| 2024 Sem 1   | [📂 WIX1002_1_2024](PYQ/final20232024sem1) |
+| 2024 Sem 2   | [📂 WIX1002_2_2024](PYQ/final20232024sem2) |
+| 2025 Sem 1   | [📂 WIX1002_1_2025](PYQ/final20242025sem1) |
 
 # 🤝 Contribution
 Feel free to fork and submit a pull request to improve my content. Thanks!
