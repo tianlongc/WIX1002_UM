@@ -15,6 +15,7 @@ public class Q5 {
         Scanner sc = new Scanner(System.in);
         
         char[] operators = {'+','-','*','/'};
+        final int TARGET = 18;
         boolean solutionFound = false; // flag to track there's solution or not
         
         // Prompt message
@@ -23,71 +24,42 @@ public class Q5 {
         int b = sc.nextInt();
         int c = sc.nextInt();
         
-        /*
-        My apologies!! I hardcode all edgy cases to get the exact output
-        */
         for (char op1: operators) {
             for (char op2: operators) {
-                // case 1: a op1 b op2 c BUT OP1 first
-                if (((op1 == '*' || op1 == '/') && (op2 == '+' || op2 == '-')) && (applyOperator(applyOperator(a, b, op1), c, op2) == 18)) {
-                    System.out.printf("%d %c %d %c %d = 18\n", a, op1, b, op2, c);
+                // op1 first
+                if (compute(compute(a, b, op1), c, op2) == TARGET) {
                     solutionFound = true;
-                }
-                // case 2: a op1 b op2 c BUT OP2 first
-                else if (((op1 == '+' || op1 == '-') && (op2 == '*' || op2 == '/')) && applyOperator(a, applyOperator(b, c, op2), op1) == 18) {
-                    System.out.printf("%d %c %d %c %d = 18\n", a, op1, b, op2, c);
-                    solutionFound = true;
-                }
-                // case 3: a / b * c
-                else if ((op1 == '/' && op2 == '*') && applyOperator(applyOperator(a, b, op1), c, op2) == 18) {
-                    System.out.printf("%d %c %d %c %d = 18\n", a, op1, b, op2, c);
-                    solutionFound = true;
-                }
-                // case 4: a * b / c
-                else if ((op1 == '/' && op2 == '*') && applyOperator(a, applyOperator(b, c, op2), op1) == 18) {
-                    System.out.printf("%d %c %d %c %d = 18\n", a, op1, b, op2, c);
-                    solutionFound = true;
-                }
-                // case 5: a / (b / c)
-                else if ((op1 == '/' && op2 == '/') && applyOperator(a, applyOperator(b, c, op2), op1) == 18) {
-                    System.out.printf("%d %c (%d %c %d) = 18\n", a, op1, b, op2, c); // Parentheses added!
-                    solutionFound = true;
-                }
-                // case 6: (a op1 b) op2 c
-                else if (applyOperator(applyOperator(a, b, op1), c, op2) == 18) {
                     if ((op1 == '+' || op1 == '-') && (op2 == '*' || op2 == '/')) {
-                        System.out.printf("(%d %c %d) %c %d = 18\n", a, op1, b, op2, c);
+                        System.out.printf("(%d %c %d) %c %d = %d\n", a, op1, b, op2, c, TARGET);
                     }else{
-                        System.out.printf("%d %c %d %c %d = 18\n", a, op1, b, op2, c);
+                        System.out.printf("%d %c %d %c %d = %d\n", a, op1, b, op2, c, TARGET);
                     }
-                    solutionFound = true;
                 }
-                // case 7: a op1 (b op2 c)
-                else if (applyOperator(a, applyOperator(b, c, op2), op1) == 18) {
-                    if ((op2 == '+' || op2 == '-') && (op1 == '*' || op1 == '/')) {
-                        System.out.printf("%d %c (%d %c %d) = 18\n", a, op1, b, op2, c);
-                    }else{
-                        System.out.printf("%d %c %d %c %d = 18\n", a, op1, b, op2, c);
-                    }
+                // op2 first
+                if (compute(a, compute(b, c, op2), op1) == TARGET) {
                     solutionFound = true;
+                    // `op1 == '/' && op2 == '/'` Handles the edge case where (a / b) / c ≠ a / (b / c)
+                    if (((op1 == '*' || op1 == '/') && (op2 == '+' || op2 == '-')) || (op1 == '/' && op2 == '/')) {
+                        System.out.printf("%d %c (%d %c %d) = %d\n", a, op1, b, op2, c, TARGET);
+                    }else{
+                        System.out.printf("%d %c %d %c %d = %d\n", a, op1, b, op2, c, TARGET);
+                    }
                 }
             }
         }
-        
-        if (!solutionFound) {
-            System.out.println("No Solution");
-        }
+        if (!solutionFound) System.out.println("No Solution");
         
         sc.close();
     }
    
-    public static double applyOperator(double a, double b, char op){
+    public static double compute(double a, double b, char op){
         switch (op) {
             case '+': return a + b;
             case '-': return a - b;
             case '*': return a * b;
-            case '/': return b != 0 ? a / b : 0;
-            default: return 0; // invalid case
+            case '/': if (b==0) throw new ArithmeticException("Division by zero");
+                            else return a/b;
+            default: throw new IllegalArgumentException("Invalid operator: " + op);
         }
     }
 }
