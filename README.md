@@ -14,7 +14,7 @@ This repository contains my solutions for the course WIX1002 Fundamentals of Pro
 ## 🗂️ Course Outline
 
 | Topic                            | Tutorial                                                | Lab                        |
-|----------------------------------|---------------------------------------------------------|----------------------------|
+|----------------------------------|:-------------------------------------------------------:|:--------------------------:|
 | Problem Solving in Programming   | [Tutorial 01](Tutorial/24068668_WIX1002_Tutorial01.pdf) | [Lab 01](Lab/Lab%2001)     |
 | Java Fundamental                 | [Tutorial 02](Tutorial/24068668_WIX1002_Tutorial02.pdf) | [Lab 02](Lab/Lab%2002)     |
 | Flow of Control (Selection)      | [Tutorial 03](Tutorial/24068668_WIX1002_Tutorial03.pdf) | [Lab 03](Lab/Lab%2003)     |
@@ -25,7 +25,7 @@ This repository contains my solutions for the course WIX1002 Fundamentals of Pro
 | Class                            | [Tutorial 08](Tutorial/24068668_WIX1002_Tutorial08.pdf) | [Lab 08](Lab/Lab%2008)     |
 | Inheritance                      | [Tutorial 09](Tutorial/24068668_WIX1002_Tutorial09.pdf) | [Lab 09](Lab/Lab%2009)     |
 | Polymorphism                     | [Tutorial 10](Tutorial/24068668_WIX1002_Tutorial10.pdf) | [Lab 10](Lab/Lab%2010)     |
-| Exception Handling               | <div align="center">-</div>                             | <div align="center">-</div>|
+| Exception Handling               | -                                                       | -                          |
 
 ## 🗣️ Viva
 A practical lab assessment where students are required to solve **Programming Questions** and deliver an **Oral Explanation** of their solutions to a **demonstrator** or **lecturer**.
@@ -41,11 +41,11 @@ This session is designed to assess:
 #### 📁 List of Question Sets
 > Practical assessments grouped by lab day
 
-| Topic        | Wednesday Group                                                         | Thursday Group                                                         |
-|--------------|-------------------------------------------------------------------------|------------------------------------------------------------------------|
-| Flow Control | <div align="center">[📂 Viva 1](Viva/Wednesday%20Group/Viva%201)</div> | <div align="center">[📂 Viva 1](Viva/Thursday%20Group/Viva%201)</div>  |
-| Methods      | <div align="center">[📂 Viva 2](Viva/Wednesday%20Group/Viva%202)</div> | <div align="center">[📂 Viva 2](Viva/Thursday%20Group/Viva%202)</div>  |
-| Class        | <div align="center">[📂 Viva 3](Viva/Wednesday%20Group/Viva%203)</div> | <div align="center">[📂 Viva 3](Viva/Thursday%20Group/Viva%203)</div>  |
+| Topic        | Wednesday Group                              | Thursday Group                                |
+|--------------|:--------------------------------------------:|:---------------------------------------------:|
+| Flow Control | [📂 Viva 1](Viva/Wednesday%20Group/Viva%201) | [📂 Viva 1](Viva/Thursday%20Group/Viva%201)  |
+| Methods      | [📂 Viva 2](Viva/Wednesday%20Group/Viva%202) | [📂 Viva 2](Viva/Thursday%20Group/Viva%202)  |
+| Class        | [📂 Viva 3](Viva/Wednesday%20Group/Viva%203) | [📂 Viva 3](Viva/Thursday%20Group/Viva%203)  |
 
 📌 [**Errata: Clarifications on Viva 2**](Viva/Errata%20-%20Clarifications%20on%20Viva%202%20(WIX1002%2C%20AY20242025%2C%20S1)%20WYY.pdf)
 
@@ -54,10 +54,10 @@ This session is designed to assess:
 #### ⭐ Recommended Questions to Try
 If you are into _Competitive Programming (CP)_ 🏆, these questions are highly recommended:
 
-| Group     | Viva   | Question                                              | Difficulty                                                                  |
-|-----------|--------|-------------------------------------------------------|-----------------------------------------------------------------------------|
-| Wednesday | Viva 2 | [Q3 — Romans](Viva/Wednesday%20Group/Viva%202/V2Q3)   | <div align="center">![Hard](https://img.shields.io/badge/🔥-Hard-red)</div> |
-| Thursday  | Viva 2 | [Q6 — G101](Viva/Thursday%20Group/Viva%202/V2Q6)      | <div align="center">![Hard](https://img.shields.io/badge/🔥-Hard-red)</div> |
+| Group     | Viva   | Question                                              | Difficulty                                         |
+|-----------|--------|-------------------------------------------------------|:--------------------------------------------------:|
+| Wednesday | Viva 2 | [Q3 — Romans](Viva/Wednesday%20Group/Viva%202/V2Q3)   | ![Hard](https://img.shields.io/badge/🔥-Hard-red) |
+| Thursday  | Viva 2 | [Q6 — G101](Viva/Thursday%20Group/Viva%202/V2Q6)      | ![Hard](https://img.shields.io/badge/🔥-Hard-red) |
 
 ## 📝 Past Year Question
 > ⚠️ **Note:**  
@@ -116,7 +116,7 @@ They are ideal for practising core Java Fundamentals topics, especially:
 Feel free to fork and submit a pull request to improve my content. Thanks!
 
 # 🧷 References 
-Deep Apologies! Sorry that I can't remember all of the names of senior that help me throughout this course but here are the repositories I usually refer to
+Deep Apologies! Sorry that I can't remember all of the names of seniors that help me throughout this course but here are the repositories I usually refer to
 - https://github.com/LimJY03/WIX1002_UM
 - https://github.com/szeyu/WIX1002-Collections
 - https://github.com/The-Missing-UMCS/UM-WIX1002
