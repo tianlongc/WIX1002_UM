@@ -9,7 +9,6 @@ package V2Q3;
  * @author tianlongc
  */
 
-
 /*
 Sample Input 1
 Wong Yoong Yee
@@ -146,7 +145,6 @@ public class Romans {
                 initials += ", ";
             }
         }
-        
         return initials;
     }
     
@@ -194,7 +192,6 @@ public class Romans {
                 arabic += romanValues[i];
             }
         }
-
         return arabic;
     }
     
@@ -202,7 +199,7 @@ public class Romans {
         if (arabics < 1 || arabics > 3999) {
             return "Invalid Statement.";
         }
-        String[] romanSymbols = {"M", "CM", "D", "C", "CD", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
+        String[] romanSymbols = {"M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
         int[] arabicValues = {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
         
         String romans = "";
@@ -213,7 +210,7 @@ public class Romans {
                 arabics -= arabicValues[i]; // subtracts the largest possible Arabic value 
             }
         }
-
         return romans;
     }
 }
+
